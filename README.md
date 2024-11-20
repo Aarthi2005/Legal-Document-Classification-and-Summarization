@@ -1,1 +1,2 @@
 # Legal-Document-Classification-and-Summarization
+LEGAL DOCUMENT CLASSIFICATION AND SUMMARIZATION is developed as a robust pipeline using Legal BERT for document classification and BART models for text summarization. The system processes diverse legal documents such as contracts, land records, and judgments to accurately categorize them and generate concise, entity-rich summaries for enhanced understanding and quick retrieval of relevant information.
